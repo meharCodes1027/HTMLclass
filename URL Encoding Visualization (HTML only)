@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>URL Encoding Visualization</title>
+</head>
+<body>
+
+  <div class="container">
+    <h2>URL Encoding Example</h2>
+
+    <p><strong>Before Encoding:</strong></p>
+    <div class="url-box">https://example.com/search?query=Hello World</div>
+
+    <p><strong>After Encoding:</strong></p>
+    <div class="url-box">https://example.com/search?query=Hello%20World</div>
+  </div>
+
+</body>
+</html>
+
